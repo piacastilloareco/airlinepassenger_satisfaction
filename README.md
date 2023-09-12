@@ -1,4 +1,5 @@
 # Airline Passenger Satisfaction Analysis
+![Texto alternativo de la imagen](URL de la imagen)
 
 ## Overview
 

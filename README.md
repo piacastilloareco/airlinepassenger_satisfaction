@@ -1,5 +1,6 @@
 # Airline Passenger Satisfaction Analysis
-![Texto alternativo de la imagen](URL de la imagen)
+
+![Ejemplo de imagen pequeña](https://github.com/piacastilloareco/airlinepassenger_satisfaction/blob/main/imagen%20github.jpg){width=200px}
 
 ## Overview
 

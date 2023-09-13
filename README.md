@@ -1,4 +1,4 @@
-![Ejemplo de imagen pequeña](https://github.com/piacastilloareco/airlinepassenger_satisfaction/blob/main/Imagen%20-%20Github.png){width=200px}
+![Ejemplo de imagen pequeña](https://www.mdzol.com/u/fotografias/m/2022/10/5/f848x477-1293524_1351327_5050.jpg){width=200px}
 
 # Airline Passenger Satisfaction Analysis
 ## Overview

@@ -1,7 +1,6 @@
-# Airline Passenger Satisfaction Analysis
-
 ![Ejemplo de imagen pequeña](https://github.com/piacastilloareco/airlinepassenger_satisfaction/blob/main/imagen%20github.jpg){width=200px}
 
+# Airline Passenger Satisfaction Analysis
 ## Overview
 
 This project involves the analysis of passenger satisfaction within the airline industry. We have gathered data from various passenger profiles, including flight distance, travel purpose, chosen flight class, and customer type (returning or new). Passengers rate different services on a scale from 1 to 5, and we aim to uncover insights and areas for improvement based on this analysis.
